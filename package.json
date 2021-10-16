@@ -24,7 +24,7 @@
     "@nestjs/common": "^8.1.1",
     "@nestjs/core": "^8.1.1",
     "@nestjs/platform-express": "^8.1.1",
-    "@nestjs/swagger": "^5.1.0",
+    "@nestjs/swagger": "https://github.com/KillWolfVlad/swagger/releases/download/support-external-dtos-snapshot/nestjs-swagger-5.0.9-feature-support-external-dtos-2.tgz",
     "class-transformer": "^0.4.0",
     "class-validator": "^0.13.1",
     "reflect-metadata": "^0.1.13",

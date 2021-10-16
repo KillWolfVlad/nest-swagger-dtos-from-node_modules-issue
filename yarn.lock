@@ -671,10 +671,9 @@
     jsonc-parser "3.0.0"
     pluralize "8.0.0"
 
-"@nestjs/swagger@^5.1.0":
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/@nestjs/swagger/-/swagger-5.1.0.tgz#dddce4fca002a008d3b996d845a57c6c7be993bd"
-  integrity sha512-+/Edyzkh3n9Kkw72zzRDHF1ZWK1PlvkkM9lK9fjYaiMjEZ3oaCiSjdwd88vAVX6UIP0nvQkT5VNpSLYU+GK5yg==
+"@nestjs/swagger@https://github.com/KillWolfVlad/swagger/releases/download/support-external-dtos-snapshot/nestjs-swagger-5.0.9-feature-support-external-dtos-2.tgz":
+  version "5.0.9-feature-support-external-dtos-2"
+  resolved "https://github.com/KillWolfVlad/swagger/releases/download/support-external-dtos-snapshot/nestjs-swagger-5.0.9-feature-support-external-dtos-2.tgz#807c8ef6720273755a22f0dbadd7cc0631a907e9"
   dependencies:
     "@nestjs/mapped-types" "1.0.0"
     lodash "4.17.21"
