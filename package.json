@@ -20,12 +20,17 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
+    "@enterprise-scope/some-dtos": "https://github.com/KillWolfVlad/nest-swagger-dtos-from-node_modules-issue/releases/download/dtos-snapshot/enterprise-scope-some-dtos-1.0.0.tgz",
     "@nestjs/common": "^8.1.1",
     "@nestjs/core": "^8.1.1",
     "@nestjs/platform-express": "^8.1.1",
+    "@nestjs/swagger": "^5.1.0",
+    "class-transformer": "^0.4.0",
+    "class-validator": "^0.13.1",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
-    "rxjs": "^7.4.0"
+    "rxjs": "^7.4.0",
+    "swagger-ui-express": "^4.1.6"
   },
   "devDependencies": {
     "@nestjs/cli": "^8.1.2",
